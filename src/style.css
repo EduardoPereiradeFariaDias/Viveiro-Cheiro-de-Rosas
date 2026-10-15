@@ -1,0 +1,7 @@
+body, .v-application { font-family: 'Inter', sans-serif !important; }
+h1, h2, .brand, .v-card-title { font-family: 'Playfair Display', serif !important; }
+.v-table thead th { background: #FCE4EA !important; color: #7A1F3D !important; font-weight: 600 !important; }
+.v-table tbody tr:nth-child(even) { background: #FFF9FA; }
+.hero { background: linear-gradient(135deg, #B8325A 0%, #E57A9A 55%, #F4B6C6 100%); color: #fff; }
+.page-title { color: #7A1F3D; }
+.v-navigation-drawer .v-list-item--active { background: #FCE4EA; color: #B8325A; }
