@@ -1,6 +1,6 @@
 # Cheiro de Rosas – CRUD de Plantas
 
-Avaliação 2 – FACET-SNP-310 – Frameworks Modernos para Desenvolvimento de Sistemas (2026.2)
+Avaliação 01 – FACET-SNP-310 – Frameworks Modernos para Desenvolvimento de Sistemas (2026.2)
 
 ## Integrante
 - Eduardo Pereira de Faria Dias – @EduardoPereiradeFariaDias
