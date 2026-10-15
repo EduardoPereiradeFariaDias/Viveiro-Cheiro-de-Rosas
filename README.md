@@ -1,4 +1,4 @@
-# Cheiro de Rosas – CRUD de Plantas
+# Viveiro Cheiro de Rosas – CRUD de Plantas
 
 Avaliação 01 – FACET-SNP-310 – Frameworks Modernos para Desenvolvimento de Sistemas (2026.2)
 
