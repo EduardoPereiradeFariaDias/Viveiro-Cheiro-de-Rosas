@@ -2,7 +2,7 @@
 
 Avaliação 2 – FACET-SNP-310 – Frameworks Modernos para Desenvolvimento de Sistemas (2026.2)
 
-## Integrantes
+## Integrante
 - Eduardo Pereira de Faria Dias – @EduardoPereiradeFariaDias
 
 ## Tema
