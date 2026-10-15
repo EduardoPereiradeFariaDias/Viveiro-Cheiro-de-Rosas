@@ -3,7 +3,7 @@
 Avaliação 2 – FACET-SNP-310 – Frameworks Modernos para Desenvolvimento de Sistemas (2026.2)
 
 ## Integrantes
-- Eduardo Pereira de Faria Dias – @SEU-USUARIO-GITHUB
+- Eduardo Pereira de Faria Dias – @EduardoPereiradeFariaDias
 
 ## Tema
 Sistema do viveiro Cheiro de Rosas: cadastro de plantas (nome, espécie, categoria, preço, data de aquisição, disponibilidade e CEP/cidade/UF do fornecedor).
